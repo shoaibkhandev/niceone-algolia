@@ -2,7 +2,7 @@
     "name": "niceone-algolia",
     "version": "0.1.0",
     "description": "Simple wrapper/integration for Algolia InstantSearch",
-    "repository": "fbovo/niceone-algolia",
+    "repository": "shoaibkhandev/niceone-algolia",
     "license": "MIT",
     "contributors": [{
         "name": "Filippo Bovo"
